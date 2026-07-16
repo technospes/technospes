@@ -58,11 +58,14 @@
 
 ### Most Used Languages 📌
 
-<div align="center">
+| Language | Usage |
+|---|---|
+| Python | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ `34%` |
+| C# | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ `38%` |
+| Node.js | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ `25%` |
+| Dart | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ `3%` |
 
-<img src="https://skillicons.dev/icons?i=python,cs,nodejs,dart&perline=4" alt="" />
-
-</div>
+<sub>Based on real language composition across active repositories (AgriFix AI, AURA, StrikeSync, BharatLok, MapARly, ParleyAlly, and supporting tools).</sub>
 
 ---
 
