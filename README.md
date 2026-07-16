@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:64B5F6&height=220&section=header&text=Ayush%20Shukla&fontSize=46&fontColor=1E3A5F&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Systems&descAlignY=55&descSize=18&descColor=1E3A5F" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5FBFF,100:64B5F6&height=220&section=header&text=Ayush%20Shukla&fontSize=46&fontColor=1E3A5F&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Systems&descAlignY=55&descSize=18&descColor=1E3A5F" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Real-Time+Computer+Vision;Building+Production+RAG+Systems+(%3C100ms);LLM+Fine-Tuning+%7C+FastAPI+%7C+CUDA;National+Hackathon+Finalist" alt="Typing SVG" />
 
