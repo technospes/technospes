@@ -60,10 +60,10 @@
 
 | Language | Usage |
 |---|---|
-| Python | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ `34%` |
-| C# | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ `38%` |
-| Node.js | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ `25%` |
-| Dart | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ `3%` |
+| Python | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ `57%` |
+| C# | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ `23%` |
+| Node.js | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ `11%` |
+| Dart | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ `9%` |
 
 <sub>Based on real language composition across active repositories (AgriFix AI, AURA, StrikeSync, BharatLok, MapARly, ParleyAlly, and supporting tools).</sub>
 
